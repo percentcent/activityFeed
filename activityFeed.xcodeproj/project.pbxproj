@@ -77,8 +77,8 @@
 		498C63F92175B77B00C5716A /* activityFeed */ = {
 			isa = PBXGroup;
 			children = (
-				498C63FA2175B77B00C5716A /* AppDelegate.swift */,
 				498C63FC2175B77B00C5716A /* ViewController.swift */,
+				498C63FA2175B77B00C5716A /* AppDelegate.swift */,
 				498C63FE2175B77B00C5716A /* Main.storyboard */,
 				498C64012175B77E00C5716A /* Assets.xcassets */,
 				498C64032175B77E00C5716A /* LaunchScreen.storyboard */,
