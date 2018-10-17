@@ -1,0 +1,22 @@
+{
+	"data" : [
+		{ "id" : 0,
+			"userName" : "Tom123",
+			"userIntro" : "Tom Swift",
+			"imageUrl" : "https://httpbin.org/image/png"
+		},
+		{
+			"id" : 1,
+			"userName" : "Penny123",
+			"userIntro" : "Penny",
+			"imageUrl" : "https://image.shutterstock.com/image-photo/young-african-american-boy-eating-450w-8511748.jpg"
+
+		},
+		{
+			"id" : 2,
+			"userName" : "lee123",
+			"userIntro" : "lee",
+			"imageUrl" : "/public/images/user1.png"
+		}
+	]
+}

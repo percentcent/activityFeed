@@ -1,0 +1,44 @@
+{
+	"data" : [
+		{ "id" : 0,
+			"likeOrStartFollwing" : true,
+			"userName" : "Zoe123",
+			"nextUserName" : "May567",
+			"postImageUrl" : "https://httpbin.org/image/png",
+			"userImageUrl" : "https://httpbin.org/image/png",
+			"youOrFollowing" : false,
+			"activityTime" : "30 min"
+		},
+		{
+			"id" : 1,
+			"likeOrStartFollwing" : true,
+			"userName" : "Penny123",
+			"nextUserName" : "Dan123",
+			"postImageUrl" : "https://httpbin.org/image/png",
+			"userImageUrl" : "https://image.shutterstock.com/image-photo/young-african-american-boy-eating-450w-8511748.jpg",
+			"youOrFollowing" : false,
+			"activityTime" : "1 h"
+
+		},
+		{
+			"id" : 2,
+			"likeOrStartFollwing" : false,
+			"userName" : "lee123",
+			"nextUserName" : "Kate",
+			"postImageUrl" : "",
+			"youOrFollowing" : false,
+			"activityTime" : "30 h",
+			"userImageUrl" : "https://image.shutterstock.com/image-photo/young-african-american-boy-eating-450w-8511748.jpg"
+		},
+		{
+			"id" : 3,
+			"likeOrStartFollwing" : false,
+			"userName" : "lee123",
+			"nextUserName" : "Molly123",
+			"postImageUrl" : "",
+			"youOrFollowing" : false,
+			"activityTime" : "1 week",
+			"userImageUrl" : "https://image.shutterstock.com/image-photo/young-african-american-boy-eating-450w-8511748.jpg"
+		}
+	]
+}
