@@ -75,7 +75,10 @@ class ActivityViewController: UIViewController,UITableViewDelegate, UITableViewD
         cell.activityFeedDetail.text = feed.detail
         
         let userUrl = URL(string: feed.userImageUrl!)
-        cell.userImage.kf.setImage(with: userUrl)
+        let processor = RoundCornerImageProcessor(cornerRadius: 40)
+        cell.userImage.kf.setImage(with: userUrl, options: [.processor(processor)])
+        //cell.userImage.kf.setImage(with: userUrl)
+        
         
         if feed.likeOrStartFollwing{
             cell.postImage.isHidden = false

@@ -65,6 +65,8 @@ class ActivityFeedViewController: UIViewController,UITableViewDelegate, UITableV
             }
         })
         */
+        
+        //let processor = RoundCornerImageProcessor(cornerRadius: 40)
         let userUrl = URL(string: feed.userImageUrl!)
         cell.userImage.kf.setImage(with: userUrl)
         
